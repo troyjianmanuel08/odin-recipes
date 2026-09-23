@@ -1,0 +1,23 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: rgb(255, 174, 248);
+  line-height: 1.6;
+}
+
+h1 {
+  color: #0d7474;
+  text-align: center;
+}
+
+a {
+  color: rgb(104, 37, 37);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Or any specific width; does not center if width is 100% */
+}
